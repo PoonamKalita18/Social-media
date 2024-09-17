@@ -1,0 +1,13 @@
+/*social media section*/
+#social-media {
+    background-color: lightcoral;
+}
+
+/*add color to Social Media*/
+.media_link {
+    padding: 1rem;
+    max-width: 14em;
+    margin-left: 1rem;
+    border:3px solid blueviolet;
+    border-radius:0.5rem;
+}
